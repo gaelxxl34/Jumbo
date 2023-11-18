@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348081401529",
+    "project_id": "jumbo-8ceb4",
+    "storage_bucket": "jumbo-8ceb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348081401529:android:3081bacbd0d84d3a587568",
+        "android_client_info": {
+          "package_name": "com.example.jumbo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUzEf5KP4jvAbP9myic_NyKeRDqlLtq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
